@@ -16,7 +16,7 @@
     "generate:gh-pages": "DEPLOY_ENV=GH_PAGES nuxt generate"
   },
   "dependencies": {
-    "nuxt": "^1.0.0",
+    "nuxt": "^1.4.2",
     "vuetify": "^1.0.0"
   },
   "devDependencies": {
